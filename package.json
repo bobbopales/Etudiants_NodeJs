@@ -1,0 +1,14 @@
+{
+  "name": "m4",
+  "version": "1.0.0",
+  "description": "microservice nodejs pour tester",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "author": "Nodejs",
+  "license": "ISC"
+}
